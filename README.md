@@ -7,6 +7,7 @@ __Dépendences :__
 
 ```pip install dnspython```
 ```pip install colorama```
+```pip install socket```
 
 💖 Enjoy
 
