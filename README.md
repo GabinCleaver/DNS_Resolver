@@ -1,6 +1,8 @@
 # DNS Resolver
 ❗ Un DNS Resolver totalement fait en Python par moi, et en français.
 
+🔮 Grâce a une adresse (url) vous pourrez avoir l'ip ainsi que le DNS de celui-ci.
+
 __Dépendences :__
 
 ```pip install dnspython```
