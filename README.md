@@ -5,7 +5,7 @@
 
 __Dépendences :__
 
-```pip install dnspython```\n
+```pip install dnspython```
 ```pip install colorama```
 
 💖 Enjoy
